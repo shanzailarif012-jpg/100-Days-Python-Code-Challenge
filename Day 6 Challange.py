@@ -1,5 +1,5 @@
                         # 100 Days Python Challange 
-                        # Day Four(4) Python 25 Questions 
+                        # Day Six(6) Python 25 Questions 
 print("\t\t\t\t\tDev.Shanzail Backend Developer") # Name And Role
 
 #1 Take your full name as input and print:
