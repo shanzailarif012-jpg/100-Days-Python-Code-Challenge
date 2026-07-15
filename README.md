@@ -44,7 +44,7 @@ In this repository, I document my daily progress by solving **25 Python practice
 ## 📈 Progress
 
 ✔️ Daily coding practice  
-✔️ 300+ Python practice problems solved  
+✔️ 225+ Python practice problems solved  
 ✔️ Consistently improving logic-building and debugging skills
 
 ---
