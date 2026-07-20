@@ -32,6 +32,8 @@ In this repository, I document my daily progress by solving **25 Python practice
 - ✅ Functions with Strings
 - ✅ Recursion
 - ✅ Basic Debugging & Code Optimization
+- ✅ File Handling
+- ✅ Object Oriented Programming (OOP) (Classes Objects Attributes Methods self Keyword)
 
 ## 🎯 Goals
 
@@ -44,7 +46,7 @@ In this repository, I document my daily progress by solving **25 Python practice
 ## 📈 Progress
 
 ✔️ Daily coding practice  
-✔️ 325+ Python practice problems solved  
+✔️ 350+ Python practice problems solved  
 ✔️ Consistently improving logic-building and debugging skills
 
 ---
