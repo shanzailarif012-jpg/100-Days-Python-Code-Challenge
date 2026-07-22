@@ -33,7 +33,7 @@ In this repository, I document my daily progress by solving **25 Python practice
 - ✅ Recursion
 - ✅ Basic Debugging & Code Optimization
 - ✅ File Handling
-- ✅ Object Oriented Programming (OOP) (Classes Objects Attributes Methods self Keyword)
+- ✅ Object Oriented Programming (OOP) (Classes,Objects,Attributes,Methods,self Keyword,Constructor (__init__))
 
 ## 🎯 Goals
 
